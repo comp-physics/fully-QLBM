@@ -1,5 +1,5 @@
 # QLBM algorithm solving diffusion equation using D1Q2 scheme on XACC framework (Section V) 
-# syntax: python3 quantum_Yepez_qjit.py -qpu <qpu> -shots <#shots>
+# Syntax: python3 QLBM_diffusion_D1Q2_xacc.py -qpu <qpu> -shots <#shots>
 # qpu can be qpp, tnqvm[tnqvm-visitor:exatn-mps], etc.
 import xacc
 import sys, os, json, numpy as np

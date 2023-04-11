@@ -88,3 +88,4 @@ Make sure to set PYTHONPATH as: (can add it to .bashrc)
 
 $ export PYTHONPATH=/usr/local/aideqc/qcor:/root/.xacc 
 
+You may need to install some Python packages to run the files in `XACC\` (e.g., $ pip install -U scikit-learn scipy matplotlib)
