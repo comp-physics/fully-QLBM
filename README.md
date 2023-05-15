@@ -1,8 +1,7 @@
 Fully quantum algorithm for  lattice Boltzmann methods with application to partial differential equations
 ==========
 
-Code for reproducing the results of the "Fully quantum algorithm for  lattice Boltzmann methods with application to partial differential equations" paper:
-<link_to_paper>
+Code for reproducing the results of the "Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations" paper, https://arxiv.org/abs/2305.07148.
 
 Files
 -----
