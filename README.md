@@ -3,7 +3,7 @@ Fully quantum algorithm for  lattice Boltzmann methods with application to parti
 
 Code for reproducing the results of the "Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations" paper, https://arxiv.org/abs/2305.07148.
 
-_Authors: Fatima Ezahra Chrit, Sriharsha Kocherla, Bryan Gard, Eugene F. Dumitrescu, Alexander Alexeev, Spencer H. Bryngelson_
+_Authors: Sriharsha Kocherla, Zhixin Song, Fatima Ezahra Chrit, Bryan Gard, Eugene F. Dumitrescu, Alexander Alexeev, Spencer H. Bryngelson_
 
 Files
 -----
