@@ -1,9 +1,27 @@
-Fully quantum algorithm for  lattice Boltzmann methods with application to partial differential equations
-==========
+### Fully quantum algorithm for mesoscale fluid simulations with application to partial differential equations
 
-Code for reproducing the results of the "Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations" paper, https://arxiv.org/abs/2305.07148.
+<p align="center"> 
+<a href="https://lbesson.mit-license.org/">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+</a>
+<a href="http://doi.org/10.1116/5.0217675">
+  <img src="http://img.shields.io/badge/DOI-10.1116/5.0217675-B31B1B.svg" />
+</a>
+</p>
 
-_Authors: Sriharsha Kocherla, Zhixin Song, Fatima Ezahra Chrit, Bryan Gard, Eugene F. Dumitrescu, Alexander Alexeev, Spencer H. Bryngelson_
+Archival repository for reproducing the paper,
+`Full paper reference: Kocherla, S., Song, Z., Chrit, F. E., Gard, B., Dumitrescu, E. F., Alexeev, A., & Bryngelson, S. H. (2024). Fully quantum algorithm for lattice Boltzmann methods with application to partial differential equations. AVS Quantum Science, 6, 033806.`, which can be cited as
+```bibtex
+@article{kocherla24,
+  author = {Kocherla, S. and Song, Z. and Chrit, F. E. and Gard, B. and Dumitrescu, E. F. and Alexeev, A. and Bryngelson, S. H.},
+  title = {Fully quantum algorithm for lattice {B}oltzmann methods with application to partial differential equations},
+  doi = {10.1116/5.0217675},
+  year = {2024},
+  volume = {6},
+  pages = {033806},
+  journal = {AVS Quantum Science},
+}
+```
 
 Files
 -----
