@@ -23,8 +23,8 @@ Archival repository for reproducing the paper,
 }
 ```
 
-Files
------
+### Files
+
  * `code/`
    * `Qiskit/`
       * `QLBM_diffusion_D1Q2.ipynb`: QLBM algorithm solving diffusion equation using D1Q2 scheme (Section III and IV-A) 
@@ -37,8 +37,9 @@ Files
    * `Readme.md`: Guide to install the XACC package with tnqvm-exatn accelerator and qcor compiler
    * `qcor_install.sh`: Script to install qcor compiler
 
-Run the code
------
-You'll need a working Python environment to run the code. To run the files in Qiskit/, you need to  install the Qiskit package (<https://qiskit.org/>). To run the files in xacc/, you need to install the XACC package with tnqvm-exatn accelerator (<https://xacc.readthedocs.io/en/latest/install.html>) and qcor compiler (<https://aide-qc.github.io/deploy/getting_started/>). 
-One possible way to do that using Docker containers is given in `xacc_install/Readme.md`.
+### Run the code
+
+You'll need a working Python environment to run the code. To run the files in `Qiskit/`, install [Qiskit](https://qiskit.org/).
+To run the files in `xacc/`, you need to install the XACC package with the `tnqvm-exatn` accelerator, [here](https://xacc.readthedocs.io/en/latest/install.html) and `qcor` compiler [here](https://aide-qc.github.io/deploy/getting_started/).
+One way to do this is by using Docker containers documented in `xacc_install/Readme.md`.
 
